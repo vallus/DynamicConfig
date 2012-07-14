@@ -1,0 +1,4 @@
+DynamicConfig
+=============
+
+Dynamic configuration provider
