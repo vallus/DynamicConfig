@@ -11,7 +11,7 @@ namespace Entities
         /// <summary>
         /// The database id for the application this configuration applies to
         /// </summary>
-        public long AplicationId
+        public long ApplicationId
         {
             get;
             set;
